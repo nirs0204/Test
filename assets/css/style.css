@@ -1,0 +1,26 @@
+body{
+    background-color: #f4f4f4;
+}
+.titre h2{
+    text-align: center;
+    font-weight: bold; 
+    margin-bottom: 50px;
+    margin-top: 30px;   
+}
+
+.champ{
+    background-color: #0f6db4;
+    color: #ffffff;
+}
+table{
+    background-color: #fcfcfc;
+}
+th{
+    text-align: center;
+}
+.chiffre{
+    text-align: right;
+}
+.text{
+    text-align: left;
+}
